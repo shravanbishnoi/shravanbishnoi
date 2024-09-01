@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1Bx7RHHK8nc9xKiD6NxqR_p-jpGPVLuSPnPQ07ONzmmc/edit?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravanbishnoi&show_icons=true&locale=en&layout=compact" alt="shravanbishnoi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravanbishnoi&show_icons=true&locale=en&layout=compact" alt="shravanbishnoi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanbishnoi&show_icons=true&locale=en" alt="shravanbishnoi" /></p>
 
