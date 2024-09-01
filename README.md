@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Shravan</h1>
-<h3 align="left">Developer...</h3>
+<h3 align="center">Developer...</h3>
 
 <img align="right" alt="Coding" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="display: inline-block; width: 400px; height: 300px;">
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shravanbishnoi008754@gmail.com**
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1Bx7RHHK8nc9xKiD6NxqR_p-jpGPVLuSPnPQ07ONzmmc/edit?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>
+- 📄 Know about my experiences: <a href="https://docs.google.com/document/d/1Bx7RHHK8nc9xKiD6NxqR_p-jpGPVLuSPnPQ07ONzmmc/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravanbishnoi&show_icons=true&locale=en&layout=compact" alt="shravanbishnoi" /></p>
 
