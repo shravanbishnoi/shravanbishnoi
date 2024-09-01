@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shravan</h1>
-<h3 align="center">Developer...</h3>
+<h1 align="center">Hey there 👋, I'm Shravan</h1>
+<h2 align="center">Developer...</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanbishnoi&label=Profile%20views&color=0e75b6&style=flat" alt="shravanbishnoi" /> </p>
 
