@@ -1,18 +1,26 @@
 <h1 align="center">Hi there 👋, I'm Shravan</h1>
 <h3 align="left">Developer...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanbishnoi&label=Profile%20views&color=0e75b6&style=flat" alt="shravanbishnoi" /> </p>
-<img align="right" alt="Coding" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-- **I'm a Student at Sitare University batch 2026**
-- I’m currently working on **Coding contest platform**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shravanbishnoi&label=Profile%20views&color=0e75b6&style=flat" alt="shravanbishnoi" />
+</p>
 
-- I’m currently learning **Web development, C programming, Creative Problem Solving**
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <ul>
+      <li>**I'm a Student at Sitare University batch 2026**</li>
+      <li>I’m currently working on **Coding contest platform**</li>
+      <li>I’m currently learning **Web development, C programming, Creative Problem Solving**</li>
+      <li>💬 Ask me about **Python, JAVA, DBMS**</li>
+      <li>📫 How to reach me **shravanbishnoi008754@gmail.com**</li>
+      <li>📄 Know about my experiences <a href="https://docs.google.com/document/d/1Bx7RHHK8nc9xKiD6NxqR_p-jpGPVLuSPnPQ07ONzmmc/edit?usp=sharing" target="_blank" rel="noopener noreferrer">here</a></li>
+    </ul>
+  </div>
 
-- 💬 Ask me about **Python, JAVA, DBMS**
-
-- 📫 How to reach me **shravanbishnoi008754@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Bx7RHHK8nc9xKiD6NxqR_p-jpGPVLuSPnPQ07ONzmmc/edit?usp=sharing](https://docs.google.com/document/d/1Bx7RHHK8nc9xKiD6NxqR_p-jpGPVLuSPnPQ07ONzmmc/edit?usp=sharing)
+  <div style="flex: 1; text-align: center;">
+    <img alt="Coding" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%; display: inline-block;">
+  </div>
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanbishnoi&" alt="shravanbishnoi" /></p>
 
